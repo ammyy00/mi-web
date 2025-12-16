@@ -1,2 +1,0 @@
-# mi-web
-mi repositorio
